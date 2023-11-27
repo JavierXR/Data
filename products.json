@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Pikachu",
+      "description": "The famous electric mouse.",
+      "price": "10",
+      "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/greekSalad.jpg?raw=true",
+      "category": "starters",
+      "tcg": "pokemon"
+    },
+    {
+      "id": 2,
+      "title": "Exodia",
+      "description": "Legendary monster",
+      "price": "100",
+      "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/lemonDessert%202.jpg?raw=true",
+      "category": "desserts",
+      "tcg": "yu-gi-oh"
+    },
+    {
+      "id": 3,
+      "title": "Black Lotus",
+      "description": "The black lotus",
+      "price": "1000",
+      "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/bruschetta.jpg?raw=true",
+      "category": "starters",
+      "tcg": "magic"
+    }
+  ]
+}
