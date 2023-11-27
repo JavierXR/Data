@@ -22,7 +22,7 @@
       "hp": 120,
       "stage": "Basic",
       "weakness": "Fx2",
-      "attack": ["\[1LL\] Electric Ball \(110\)"],
+      "attack": ["1LL Electric Ball 110"],
       "resistance": "None",
       "retreatCost": 2
       "atk": 110,
@@ -73,7 +73,7 @@
       "sku": 5270809,
       "price": 0.10,
       "description": "Draw three cards. Then discrd two cards unless you discard a basic land card.",
-      "flavor": "\"This is your only warning, alchemist. The secrets of the sea are not yours to behold. Lord Krothuss will not be so merciful next time.\" -Runo Stromkirk" 
+      "flavor": "This is your only warning, alchemist. The secrets of the sea are not yours to behold. Lord Krothuss will not be so merciful next time. -Runo Stromkirk" 
       "artist": "Dominik Mayer"
       "attribute": "",
       "type": "Instant",
