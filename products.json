@@ -24,7 +24,7 @@
       "weakness": "Fx2",
       "attack": ["1LL Electric Ball 110"],
       "resistance": "None",
-      "retreatCost": 2
+      "retreatCost": 2,
       "atk": 110,
       "def": 0,
       "line": "Pokémon",
