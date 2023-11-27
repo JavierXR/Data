@@ -15,8 +15,8 @@
       "sku": 5706450,
       "price": 0.23,
       "description": "Ability - Lightning Symbol Your Basic L Pokémon's attacks, except any Zapdos, do 10 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
-      "flavor": "This Pokémon has complete control over electricity. There are tales of Zapdos nesting in the dark depths of pitch-black thunderclouds." 
-      "artist": "Yuya Oka"
+      "flavor": "This Pokémon has complete control over electricity. There are tales of Zapdos nesting in the dark depths of pitch-black thunderclouds.",
+      "artist": "Yuya Oka",
       "attribute": "",
       "type": "Lightning",
       "hp": 120,
@@ -73,8 +73,8 @@
       "sku": 5270809,
       "price": 0.10,
       "description": "Draw three cards. Then discrd two cards unless you discard a basic land card.",
-      "flavor": "This is your only warning, alchemist. The secrets of the sea are not yours to behold. Lord Krothuss will not be so merciful next time. -Runo Stromkirk" 
-      "artist": "Dominik Mayer"
+      "flavor": "This is your only warning, alchemist. The secrets of the sea are not yours to behold. Lord Krothuss will not be so merciful next time. -Runo Stromkirk",
+      "artist": "Dominik Mayer",
       "attribute": "",
       "type": "Instant",
       "hp": 0,
